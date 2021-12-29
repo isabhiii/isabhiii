@@ -3,9 +3,9 @@
 I'm Abhishek from India, and I do Programming. I am currently student and I really enjoy learning new technologies and visualisation libraries. My work is in repositories.  Feel free to check and ask queries.
 
 ## Skills and Experience:
-* PYTHON
+* PYTHON (Numpy, Pandas, OpenCV, Matplotlib, Seaborn, Plotly, Cufflink for 3D plotting)
 * POWER BI
-* EXCEL 
+* EXCEL (Power Query, Slicer, Data Cleaning)
 * MYSQL 
 
 - 🔭 I’m currently working on this page. 
