@@ -6,7 +6,7 @@ I'm Abhishek from India, and I do Programming. I am currently student and I real
 * PYTHON (Numpy, Pandas, OpenCV, Matplotlib, Seaborn, Plotly, Cufflink for 3D plotting)
 * POWER BI
 * EXCEL (Power Query, Slicer, Data Cleaning)
-* MYSQL 
+* MYSQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MySQL 
