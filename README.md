@@ -9,8 +9,6 @@ I'm Abhishek from India, and I do Programming. I am currently student and I real
 * EXCEL (Power Query, Slicer, Data Cleaning)
 * MYSQL
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MySQL 
 - 📫 How to reach me: kananiabhishek99@gmail.com 
 
 
