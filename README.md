@@ -2,12 +2,14 @@
 #### Uprising Data analyst | Data Scientist
 I'm Abhishek from India, and I do Programming. I am currently student and I really enjoy learning new technologies and visualisation libraries. My work is in repositories.  Feel free to check and ask queries.
 
-## Skills and Experience:
-* Machine Learning
-* PYTHON (Numpy, Pandas, OpenCV, Matplotlib, Seaborn, Plotly, Cufflink for 3D plotting)
-* POWER BI
+## Skills and Experience: (In order of expertise)
+
 * EXCEL (Power Query, Slicer, Data Cleaning)
 * MYSQL
+* Tableau
+* PYTHON (Numpy, Pandas, OpenCV, Matplotlib, Seaborn, Plotly, Cufflink for 3D plotting)
+* POWER BI
+* Machine Learning
 
 - 📫 How to reach me: kananiabhishek99@gmail.com 
 
