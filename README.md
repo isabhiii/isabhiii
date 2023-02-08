@@ -5,7 +5,7 @@ I'm Abhishek from India, and I do Programming. I am currently student and I real
 ## Skills and Experience: (In order of expertise)
 
 * EXCEL (Power Query, Slicer, Data Cleaning)
-* MySQL
+* SQL
 * Tableau
 * PYTHON (Numpy, Pandas, OpenCV, Matplotlib, Seaborn, Plotly, Cufflink for 3D plotting)
 * POWER BI
