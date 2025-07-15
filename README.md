@@ -2,7 +2,7 @@
 #### Uprising Data analyst | Data Scientist
 I'm Abhishek from India, and I do Programming. I am currently student and I really enjoy learning new technologies and visualisation libraries. My work is in repositories.  Feel free to check and ask queries.
 
-## Skills and Experience: (In order of expertise)
+## Skills and Experience:
 
 * EXCEL (Power Query, Slicer, Data Cleaning)
 * SQL
