@@ -26,7 +26,6 @@ I architect production-ready automation systems, high-performance ETL pipelines,
 ### 📫 **Connect with me**
 *   **LinkedIn:** [linkedin.com/in/abhishekkanani](https://linkedin.com/in/abhishekkanani)
 *   **Email:** [abhishekkanani10@gmail.com](mailto:abhishekkanani10@gmail.com)
-*   **Portfolio:** [Tableau Public Portfolio](https://public.tableau.com/app/profile/abhishek.kanani)
 
 ---
 *Electrical Engineering Graduate (M.Sc.) | Focused on Insights Automation & Scalable Data Systems*
