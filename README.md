@@ -5,13 +5,13 @@ I architect production-ready automation systems, high-performance ETL pipelines,
 
 ---
 
-### 🛠 **Technical Stack**
+### **Technical Stack**
 *   **Data Ops & AI:** LangChain (RAG), Vector Indexing (ChromaDB), FastAPI, REST APIs.
 *   **Engineering & DevOps:** Python (Expert), SQL (PL/SQL), Docker, GitLab CI/CD.
 *   **Data Science & CV:** XGBoost, Scikit-learn, OpenCV (DNN), Feature Engineering.
 *   **Analytics:** Tableau, NumPy, Pandas, Automated ETL Pipelines.
 
-### 🚀 **Featured Projects**
+### **Featured Projects**
 *   **[Manufacturing-Quality-RAG](https://github.com/isabhiii/Manufacturing-Quality-RAG)**  
     *Production-ready RAG system utilizing FastAPI and ChromaDB for sub-second document retrieval.*
 *   **[Reddit-Stock-Sentiment-Analyzer](https://github.com/isabhiii/Reddit-Stock-Sentiment-Analyzer)**  
@@ -23,7 +23,7 @@ I architect production-ready automation systems, high-performance ETL pipelines,
 
 ---
 
-### 📫 **Connect with me**
+### **Connect with me**
 *   **LinkedIn:** [linkedin.com/in/abhishekkanani](https://linkedin.com/in/abhishekkanani)
 *   **Email:** [abhishekkanani10@gmail.com](mailto:abhishekkanani10@gmail.com)
 
