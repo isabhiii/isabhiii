@@ -24,7 +24,7 @@ I architect production-ready automation systems, high-performance ETL pipelines,
 ---
 
 ### **Connect with me**
-*   **LinkedIn:** [linkedin.com/in/abhishekkanani](https://linkedin.com/in/abhishekkanani)
+*   **LinkedIn:** [linkedin.com/in/abhishekkanani](https://www.linkedin.com/in/abhishek-kanani/)
 *   **Email:** [abhishekkanani10@gmail.com](mailto:abhishekkanani10@gmail.com)
 
 ---
